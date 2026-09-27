@@ -9,8 +9,7 @@ For your first project, add these 5 features:
 📊 Simple Dashboard with graphs
 📥 Export Security Report
 
-These are enough to make your project look complete and professiona
-
+These are enough to make your project look complete and profession
 
 
 
